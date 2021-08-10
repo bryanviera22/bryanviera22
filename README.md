@@ -2,7 +2,7 @@
 - 👀 I’m interested in learing about technology and explore my interests in software develpment and Cybersecurity
 - 🏢 I’m currently a student at Marymount University, Arlington VA, pursuing a degree in IT
 - 👨‍💻 I’m looking to gain more experience by either finding connections who are interested in practicing coding or working for a small company as a junior software developer.
-- 📚 I have experience in Java, Python, as well as in mySQL
+- 📚 I have experience in Java and MySQL database
 - 📫 How to reach me: 571-322-1415 or bryanviera08@gmail.com
 
 <!---
