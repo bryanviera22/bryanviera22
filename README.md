@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bryan Viera
 - 👀 I’m interested in learing about technology and explore my interests in software develpment and cloud
 - 🏢 I’m a recent grad from Marymount University, Arlington VA, with a degree in IT
-- 📚 I have experience in Java, Python, and MySQL database
+- 📚 I have experience in Java, Python, and SQL
 - 📫 How to reach me: 571-322-1415 or (Personal) bryanviera08@gmail.com (School) b0v27290@marymount.edu
 
 <!---
